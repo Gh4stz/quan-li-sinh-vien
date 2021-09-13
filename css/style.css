@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    line-height: 60px;
+    display: block;
+    height: 60px;
+    background-color: #000;
+    color: #fff;
+}
+table{
+    width: 100%;
+    background-color: antiquewhite;
+}
+td{
+    text-align: center;
+}
+input{
+    height:36px;
+    width: 50%;
+    background-color:rgb(221, 221, 221);
+}
+input,
+label{
+    font-size: 20px;
+}
+button{
+    font-size:20px;
+    background-color:rgb(221, 221, 221);
+    padding: 10px; 
+}
+#add{
+    background-color:#000;
+    color:#fff;
+    font-size:20px;
+}
